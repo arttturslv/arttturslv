@@ -1,7 +1,9 @@
 <!--![Versão final](https://github.com/arttturslv/arttturslv/assets/115251355/567e1ab3-1767-4ed7-9a3b-a956b7021a8e) -->
+<!--![Gif animado do artur dando um joinha, estilo pixel art.](https://github.com/arttturslv/arttturslv/assets/115251355/84e5eaca-0e30-46f0-9e6d-eb20a63e2344)-->
 <div align="center">
 
-![Gif animado do artur dando um joinha, estilo pixel art.](https://github.com/arttturslv/arttturslv/assets/115251355/84e5eaca-0e30-46f0-9e6d-eb20a63e2344)
+![New Piskel (6)](https://github.com/arttturslv/arttturslv/assets/115251355/76c794e7-9bd9-499f-8f6d-0dc3e07ff722)
+
 </div>
 
 ### Oi 🖐! 
