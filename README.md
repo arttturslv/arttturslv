@@ -11,36 +11,29 @@
 </div>
 
 ### Oi 🖐! 
-Eu sou o **Artur**, estudante de ADS, programador e desenhista amador. Tenho conhecimentos em Java, mas meu foco é o frontend, no desenvolvimento web utilizando HTML, CSS, Javascript, React e Tailwind e o Figma para criação de projetos de websites.  
-
-
+**Eu sou o Artur**<br>
+ • Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas<br>
+ • Desenvolvedor Front-End<br> 
 
 ### Redes Sociais 📲
-[- Portifolio 🤓](https://arttturslv.github.io/Website-Artttur/) <br>
-[- Linkedin 💼](https://www.linkedin.com/in/arttturslv/) <br>
-[- Email ✉](mailto:arttturslv@gmail.com) <br>
-[- Instagram 📸](https://www.instagram.com/artur.pine/) <br>
-</a>
-</p>
+<img src="https://github.com/arttturslv/arttturslv/assets/115251355/21e17e8f-3f69-4a39-8f12-0463f2f43436" href="https://artttur.com/" width="130" title="hover text">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/arttturslv/)<br>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arttturslv@gmail.com)
+
 
 ### Tecnologias 👨‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,tailwind,bootstrap,wordpress,git)](https://skillicons.dev)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<!--
+### Frameworks e Ferramentas:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![Artur status](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arttturslv&layout=compact&langs_count=8&hide_border=true)
-<br />
-
-**arttturslv/arttturslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--! https://dev.to/envoy_/150-badges-for-github-pnk -->
