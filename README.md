@@ -16,10 +16,9 @@
  • Desenvolvedor Front-End<br> 
 
 ### Redes Sociais 📲
-<img src="https://github.com/arttturslv/arttturslv/assets/115251355/21e17e8f-3f69-4a39-8f12-0463f2f43436" href="https://artttur.com/" width="130" title="hover text">
-
+[<img src="https://github.com/arttturslv/arttturslv/assets/115251355/21e17e8f-3f69-4a39-8f12-0463f2f43436" target="_blank" width="130" >](https://artttur.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/arttturslv/)<br>
+)](https://www.linkedin.com/in/arttturslv/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arttturslv@gmail.com)
 
 
