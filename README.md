@@ -14,6 +14,8 @@
 **Eu sou o Artur**<br>
  • Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas<br>
  • Desenvolvedor Front-End<br> 
+ • Atualmente aprendendo React Native!<br> 
+ 
 
 ### Redes Sociais 📲
 [<img src="https://github.com/arttturslv/arttturslv/assets/115251355/21e17e8f-3f69-4a39-8f12-0463f2f43436" target="_blank" width="130" >](https://artttur.com/)
