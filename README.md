@@ -4,9 +4,7 @@
  -->
 <div align="center">
 
-
-![Gif animado do artur dando um joinha, estilo pixel art.](https://github.com/arttturslv/arttturslv/assets/115251355/d015a887-4bbe-4b79-aa61-92c58b192696)
-
+![Artur dando um joinha, estilo pixel art](https://github.com/user-attachments/assets/c8d7b2f0-2058-4a27-b91a-acef2e7c10bb)
 
 </div>
 
